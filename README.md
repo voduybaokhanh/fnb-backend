@@ -25,6 +25,11 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+## Thư viện đã dùng
+npm install @nestjs/typeorm typeorm pg class-validator class-transformer
+npm install @nestjs/swagger
+npm install @nestjs/passport passport-jwt
+
 ## Project setup
 
 ```bash
